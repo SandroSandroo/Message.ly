@@ -7,7 +7,7 @@
 <ul>
   
   <li>Node's version of bcrypt to secure passwords.</li>
-  <li> Authentication method which uses JSON web tokens (JWT).<li>
+  <li> Authentication method which uses JSON web tokens (JWT).</li>
  
 </ul>
 
@@ -16,6 +16,6 @@
 <ul>
   
   <li>Install requirements,</li>
-  <li>Create messagely database and import schema from data.sql<li>
+  <li>Create messagely database and import schema from data.sql</li>
  
 </ul>
